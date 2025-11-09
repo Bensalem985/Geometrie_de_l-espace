@@ -45,5 +45,6 @@ Le programme affichera les résultats des tests unitaires pour les opérations s
 
 ### 🪪 Infos de l'étudiant
 
-Nom: EPONSE MEKONTSO BEN-SALEM EMMANUEL
+Nom: EPONSE MEKONTSO BEN-SALEM EMMANUEL.
+
 Matricule: 25P927
